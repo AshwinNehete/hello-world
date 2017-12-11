@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Heya people,
+This is turning out to be awesome!
